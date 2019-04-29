@@ -1,3 +1,4 @@
+
 # Image Classification - VGG16 Architecture
 VGG16 is a convolutional neural network model proposed by K. Simonyan and A. Zisserman from the University of Oxford in the paper “Very Deep Convolutional Networks for Large-Scale Image Recognition”.
 
@@ -5,10 +6,11 @@ VGG16 significantly outperforms the previous generation of models in the ILSVRC-
 
 ![alt_text](https://github.com/pnagula/Image_Classification/blob/master/VGG16.jpg)
 
-# Object Detection - YOLOv3
+# Object Detection & Tracking using YOLOv3 and SORT 
+### Object Detection - YOLOv3
 ![alt_text](https://github.com/pnagula/Object_Classification_Detection_Tracking/blob/master/YOLOv3.jpg)
 
-# Object Tracking - SORT (Simple Online Real Time Tracking)
+### Object Tracking - SORT (Simple Online Real Time Tracking)
 
 SORT is a barebones implementation of a visual multiple object tracking framework based on rudimentary data association and state estimation techniques. It is designed for online tracking applications where only past and current frames are available and the method produces object identities on the fly. While this minimalistic tracker doesn't handle occlusion or re-entering objects its purpose is to serve as a baseline and testbed for the development of future trackers.
 
@@ -22,10 +24,10 @@ SORT is a barebones implementation of a visual multiple object tracking framewor
   doi={10.1109/ICIP.2016.7533003}
 }
 
-# Object Tracking By assigning Unique ID, Please click on image below to watch youtube video
+### Object Tracking By assigning Unique ID, Please click on image below to watch youtube video
 
 [![Alt text](https://github.com/pnagula/Object_Classification_Detection_Tracking/blob/master/tracking.png)](https://www.youtube.com/watch?v=36ZVxyH8X_4)
-
-# Face Recognition and Tracking, Please click on the link below to watch youtube video
+# Face Recognition and Tracking
+## Face Recognition and Tracking, Please click on the link below to watch youtube video
 
 [![Alt text](https://github.com/pnagula/Object_Classification_Detection_Tracking/blob/master/FR.jpeg)](https://www.youtube.com/watch?v=Wh-mMOAXKpU)
