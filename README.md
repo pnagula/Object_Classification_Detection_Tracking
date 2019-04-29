@@ -24,7 +24,7 @@ SORT is a barebones implementation of a visual multiple object tracking framewor
 
 # Object Tracking By assigning Unique ID, Please click on link below to watch youtube video
 
-[![Alt text](https://img.youtube.com/vi/36ZVxyH8X_4/0.jpg)](https://www.youtube.com/watch?v=36ZVxyH8X_4)
+[![Alt text](https://github.com/pnagula/Object_Classification_Detection_Tracking/blob/master/tracking.png)](https://www.youtube.com/watch?v=36ZVxyH8X_4)
 
 # Face Recognition and Tracking, Please click on the link below to watch youtube video
 
