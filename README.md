@@ -22,7 +22,7 @@ SORT is a barebones implementation of a visual multiple object tracking framewor
   doi={10.1109/ICIP.2016.7533003}
 }
 
-# Object Tracking By assigning Unique ID, Please click on link below to watch youtube video
+# Object Tracking By assigning Unique ID, Please click on image below to watch youtube video
 
 [![Alt text](https://github.com/pnagula/Object_Classification_Detection_Tracking/blob/master/tracking.png)](https://www.youtube.com/watch?v=36ZVxyH8X_4)
 
