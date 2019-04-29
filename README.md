@@ -22,3 +22,5 @@ SORT is a barebones implementation of a visual multiple object tracking framewor
   doi={10.1109/ICIP.2016.7533003}
 }
 
+
+[![Alt text](https://www.youtube.com/watch?v=36ZVxyH8X_4&feature=youtu.be)
