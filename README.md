@@ -28,4 +28,4 @@ SORT is a barebones implementation of a visual multiple object tracking framewor
 
 # Face Recognition and Tracking, Please click on the link below to watch youtube video
 
-[![Alt text](https://img.youtube.com/vi/Wh-mMOAXKpU/0.jpg)](https://www.youtube.com/watch?v=Wh-mMOAXKpU)
+[![Alt text](https://github.com/pnagula/Object_Classification_Detection_Tracking/blob/master/FR.jpeg)](https://www.youtube.com/watch?v=Wh-mMOAXKpU)
