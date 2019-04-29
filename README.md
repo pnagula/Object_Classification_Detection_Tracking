@@ -8,3 +8,15 @@ VGG16 significantly outperforms the previous generation of models in the ILSVRC-
 # Object Detection - YOLOv3
 ![alt_text](https://github.com/pnagula/Object_Classification_Detection_Tracking/blob/master/YOLOv3.jpg)
 
+# Object Tracking - SORT (Simple Online Real Time Tracking)
+
+@inproceedings{Bewley2016_sort,
+  author={Bewley, Alex and Ge, Zongyuan and Ott, Lionel and Ramos, Fabio and Upcroft, Ben},
+  booktitle={2016 IEEE International Conference on Image Processing (ICIP)},
+  title={Simple online and realtime tracking},
+  year={2016},
+  pages={3464-3468},
+  keywords={Benchmark testing;Complexity theory;Detectors;Kalman filters;Target tracking;Visualization;Computer Vision;Data Association;Detection;Multiple Object Tracking},
+  doi={10.1109/ICIP.2016.7533003}
+}
+
